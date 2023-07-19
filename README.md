@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello there, I'm Tharitar 👋 
 
-<!--
-**tharitar8/tharitar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*(Pronounced Ta-ri-Ta)* You can call me "Gift", or if you're up for a challenge, feel free to use my first name!
 
-Here are some ideas to get you started:
+I am a dedicated software engineer, always on the lookout for opportunities to learn new things and tackle exciting challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 About Me
+After graduating from the General Assembly Software Engineering Immersive Program BootCamp and the Code First Girl FullStack Program, 
+I've been sharpening my software development skills. I thrive on solving complex problems and creating efficient solutions. 
+As a tech enthusiast, I keep myself updated with the latest technology trends.
+
+### 💻 Tech Stack
+- 🗣 Languages: JavaScript ❤️, Python, TypeScript English 🇺🇸, Thai
+- 🛠 Tools: Git, Node.js, React.js, Express.js
+
+### 🚀 Projects I'm Proud Of
+- **Flash-Meal**: An app{CRUD} allowing users to create post, read, delete, update, and share their quick 15-minute recipes.
+- **Beyond Earth**: An e-commerce platform where you can buy tickets for space tourism around Moon, Mars, Earth, Venus, Mercury, and my very own planet, "Thariterra".
+- **BloodHub**: An app helping users locate places to donate blood.
+
+### 📬 Reach Out to Me
+Feel free to contact me at [tharitargift@gmail.com](mailto:tharitargift@gmail.com). I'm always open to interesting conversations and opportunities.
+
+
+
+
+
