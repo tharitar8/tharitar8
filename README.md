@@ -1,4 +1,4 @@
-## Hello there, I'm Tharitar 👋 
+## Hello there, I'm Tharitar [GIFT] 👋 
 
 *(Pronounced Ta-ri-Ta)* You can call me "Gift", or if you're up for a challenge, feel free to use my first name!
 
