@@ -14,6 +14,8 @@ As a tech enthusiast, I keep myself updated with the latest technology trends.
 - 🛠 Tools: Git, Node.js, React.js, Express.js
 
 ### 🚀 Projects I'm Proud Of
+- **FITFEAST**: A cutting-edge application harnessing the power of the Edamam API, enabling users to effortlessly search for their preferred ingredients and receive 
+  curated recipe suggestions and menus sourced directly through Edamam's extensive database.
 - **Flash-Meal**: An app{CRUD} allowing users to create post, read, delete, update, and share their quick 15-minute recipes.
 - **Beyond Earth**: An e-commerce platform where you can buy tickets for space tourism around Moon, Mars, Earth, Venus, Mercury, and my very own planet, "Thariterra".
 - **BloodHub**: An app helping users locate places to donate blood.
