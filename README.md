@@ -21,7 +21,7 @@ As a tech enthusiast, I keep myself updated with the latest technology trends.
 - **BloodHub**: An app helping users locate places to donate blood.
 
 ### 📬 Reach Out to Me
-Feel free to contact me at [tharitargift@gmail.com](mailto:tharitargift@gmail.com). I'm always open to interesting conversations and opportunities.
+Feel free to contact me at [tharitargift@gmail.com](mailto:tharitar8@gmail.com). I'm always open to interesting conversations and opportunities.
 
 
 
